@@ -1,0 +1,22 @@
+
+.card img {
+    max-height: 24rem;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+.card .btn {
+    justify-content: stretch;
+}
+
+.categories-container {
+    background-color: #ffe14e;
+}
+
+.categories-header a {
+    color: darkslategray;
+}
+
+.categories-header a:hover {
+    color: gray;
+}
